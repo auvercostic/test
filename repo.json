@@ -1,20 +1,20 @@
 {
-      "identifier": "Focus-Music-Wallpaper",
+      "identifier": "MINECRAFT",
       "kind": "wallpaper",
-      "name": "Focus Music Player",
-      "author": "Tri Thanh",
+      "name": "MINECRAFT",
+      "author": "Unknown",
       "version": "1.0.0",
-      "summary": "Hình nền động trình phát nhạc Focus 3D",
-      "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
+      "summary": "MINECRAFT Wallpaper",
+      "description": "MINECRAFT Wallpaper and AOD",
       "category": "Wallpaper",
-      "tags": ["Wallpaper", "Custom", "Dialer"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
+      "tags": ["Wallpaper"],
+      "icon": "",
       "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
+        "https://github.com/auvercostic/test/blob/main/assets/minecraft.mp4"
       ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/for_iphone.tendies",
-      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
-      "size": 6785409,
+      "download": "packages/MINECRAFT.tendies",
+      "sha256": "2da605c3388ff7af7ac21d037508803018865b0ba3727e1b2ef0a4da2ec37383",
+      "size": 2709,
       "supportedOS": [
         { "minimum": "17.0", "maximum": "18.7.1" }
       ],
